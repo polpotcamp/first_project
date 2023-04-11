@@ -1,0 +1,11 @@
+.video__iframes{
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  .video__iframes:nth-last-child(){
+    margin-right: 0px;
+  }

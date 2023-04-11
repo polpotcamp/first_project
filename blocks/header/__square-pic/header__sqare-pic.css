@@ -1,0 +1,17 @@
+@keyframes rotation{
+    from{
+      transform: rotate(0deg);
+    }
+    to{
+       transform: rotate(360deg);
+    }
+  }
+  .header__square-pic{
+    position: absolute;
+   width: 568px;
+    height: 568px;
+    background-color: #2f80ed;
+    right: 0;
+    top: 64px;
+    animation: rotation 20s linear infinite normal;
+  }
