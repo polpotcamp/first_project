@@ -1,12 +1,4 @@
-@keyframes rotation{
-    from{
-      transform: rotate(0deg);
-    }
-    to{
-       transform: rotate(360deg);
-    }
-  }
-  .header__square-pic{
+ .header__square-pic{
     position: absolute;
    width: 568px;
     height: 568px;
