@@ -1,12 +1,14 @@
-.table__cell{
-    width: 250px;
-    margin-top: 80px;
-    margin-bottom: 80px;
-  }
-  .table__cell:nth-child(n+5){
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-  .table__cell> *:nth-child(3){
-    margin-top: 20px;
-  }
+.table__cell {
+  width: 250px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.table__cell:nth-child(n+5) {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.table__cell>*:nth-child(3) {
+  margin-top: 20px;
+}

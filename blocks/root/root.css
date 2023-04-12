@@ -1,0 +1,17 @@
+div,
+p,
+h2,
+section,
+h3 {
+    margin: 0;
+}
+
+a:hover {
+    opacity: 0.5;
+    transition: ease-in-out;
+}
+
+a {
+    text-decoration: none;
+    color: #2f80ed;
+}
