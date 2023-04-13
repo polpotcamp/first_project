@@ -7,6 +7,3 @@
   margin-top: 50px;
 }
 
-.video__iframes:nth-last-child() {
-  margin-right: 0px;
-}
