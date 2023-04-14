@@ -4,6 +4,7 @@
   width: 560px;
   height: 315px;
 }
-.video__iframe:nth-child(2){
+
+.video__iframe:nth-child(2) {
   margin-right: 0;
 }
