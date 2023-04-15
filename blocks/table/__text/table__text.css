@@ -4,3 +4,6 @@
   font-size: 18px;
   font-weight: normal;
 }
+.table__text:nth-child(3){
+  margin-top: 20px;
+}
